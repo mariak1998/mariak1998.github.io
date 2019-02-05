@@ -8,7 +8,7 @@ github webpage. All pages have passed the official HTML5 specifications. The CSS
 file has passd the official CSS validations. 
 
 Collaboration or discussion: Asked a TA about accessing tufts provided cs website,
- was forgetting a "~"
+ was forgetting a "~". Googled how to create a button. 
 
 Approximately how many hours spent: 10 hours (Mostly playing around with colors 
 and the button)

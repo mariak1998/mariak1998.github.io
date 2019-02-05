@@ -47,7 +47,6 @@ h3{
  }
 
  .button{
- 	-webkit-transition-duration: 0.4s;
  	transition-duration: 0.4s;
  	text-align: center;
  	left: 50%;

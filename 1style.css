@@ -1,6 +1,11 @@
 /* Assignment 1 */
 body{
-	background: pink;
+	background: white;
+}
+
+a{
+	text-decoration: none;
+	color: black;
 }
 
 h1 { 
@@ -39,4 +44,24 @@ h3{
 
  #Activities{
  	font-size: 18px;
+ }
+
+ .button{
+ 	-webkit-transition-duration: 0.4s;
+ 	transition-duration: 0.4s;
+ 	text-align: center;
+ 	left: 50%;
+ 	font-size: 16px;
+  	color: black;
+  	cursor: pointer;
+ }
+ .button a{
+ 	border: 2px solid black;
+ 	padding: 10px 24px;
+ 	display: inline-block;
+ }
+
+ .button:hover a{
+ 	background-color: purple;
+  	color: white;
  }
